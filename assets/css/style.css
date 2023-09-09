@@ -1,0 +1,19 @@
+.btn {
+    background-color: rgb(29, 143, 29);
+    color: white;
+    font-size: 30px;
+    /* border-style: double;
+    border-width: 20px;
+    border-color: blue; */
+    /* border: 1px solid red; */
+    border: none;
+}
+.btn-submit {
+    background-color: rgb(139, 5, 169);
+    color: white;
+    font-size: 30px;
+    border: none;
+}
+#checkbox {
+    
+}
